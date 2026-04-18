@@ -1,0 +1,41 @@
+.bg_back{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background-image: url("src/Fx_cookie0605_pattern_02.png");
+    z-index: -1;
+}
+
+.bg{
+    color: rgb(0, 0, 210);
+    position: fixed;
+    background-color: rgb(58, 118, 248);
+    top: 0%;
+    left: 3%;
+    height: 100%;
+    width: 94%;
+    z-index: -1;
+}
+
+body{
+    text-align: center;
+}
+
+.image{
+    width: 25%;
+    height: 25%;
+}
+
+main{
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+}
+
+.bg_Zote{
+    background-color: rgb(114, 114, 114);
+}
